@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "Name": "ruta1", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.921372418391968, 9.86314463224269 ], [ -83.918718866633427, 9.862783117188021 ] ] } },
+{ "type": "Feature", "properties": { "cat": 2, "Name": "ruta2", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.921456056569326, 9.862276198341146 ], [ -83.91883757490416, 9.861905702024124 ] ] } },
+{ "type": "Feature", "properties": { "cat": 3, "Name": "ruta3", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.921565134614127, 9.861427571111808 ], [ -83.918979809004981, 9.861080498771035 ] ] } },
+{ "type": "Feature", "properties": { "cat": 4, "Name": "ruta4", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.92167003518729, 9.860558188299134 ], [ -83.919120669182703, 9.86016251596236 ] ] } },
+{ "type": "Feature", "properties": { "cat": 5, "Name": "ruta5", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.921321999155126, 9.863186777226956 ], [ -83.921649383200773, 9.860515574115196 ] ] } },
+{ "type": "Feature", "properties": { "cat": 6, "Name": "ruta6", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.920464122764201, 9.863034599986932 ], [ -83.920850381341793, 9.860415397607596 ] ] } },
+{ "type": "Feature", "properties": { "cat": 7, "Name": "ruta7", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.919595643295821, 9.862922314591375 ], [ -83.919958531852586, 9.860276092530803 ] ] } },
+{ "type": "Feature", "properties": { "cat": 8, "Name": "ruta8", "Descriptio": null }, "geometry": { "type": "LineString", "coordinates": [ [ -83.918740595863653, 9.8628040894659 ], [ -83.91913178827626, 9.860140888129919 ] ] } }
+]
+}
